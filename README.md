@@ -9,4 +9,4 @@
 Готово!
 
 Скриншот:
-![Image alt](https://github.com/KirillChimbur/LongPoll-VK-Bot/screen.png)
+![Image alt](https://github.com/KirillChimbur/LongPoll-VK-Bot/blob/master/screen.png)
